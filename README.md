@@ -26,7 +26,7 @@ This project implements that calculation in a single, easy-to-read Python file, 
 Clone the repository and move into the project folder:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
+git clone https://github.com/kanishk25bcon2604-maker/python-basics-25BCON2604-factorial.git
 cd <your-repository>
 ```
 
